@@ -1,5 +1,9 @@
 # Plagiarism Detection Project
 
+![Project Cover Image](https://github.com/issamahwach/plagiarismDetector/blob/main/public/cover.png?raw=true)
+
+Demo: [⭐ Click Here ⭐](https://plagiarism-detector-one.vercel.app)
+
 ## Overview
 
 This project implements a simple plagiarism detection algorithm using cosine similarity between two texts. The algorithm tokenizes the input texts into words, creates vectors representing the frequency of each word, and calculates the cosine similarity between the vectors.
